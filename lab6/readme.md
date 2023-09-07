@@ -86,7 +86,7 @@ Open source intelligence (OSINT) – разведывательная дисци
 
 Оптимизация производительности
 
-[Источник](https://www.angarasecurity.ru/cases/)
+[Источник](https://www.kaspersky.ru/enterprise-security)
 
 #### Производимые продукты, основные сферы их применения, их достоинства
 
