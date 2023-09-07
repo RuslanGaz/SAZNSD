@@ -25,7 +25,7 @@
 1. Получим сведения о версии ядра:
 
 ```bash
-root@lime-Virtual-Machine:/home/ruslan# uname -a
+root@ruslan-Virtual-Machine:/home/ruslan# uname -a
 Linux ruslan-Virtual-Machine 5.15.0-27-generic #28-Ubuntu SMP Thu Apr 14 04:55:28 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
 ```
 
